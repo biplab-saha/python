@@ -18,6 +18,8 @@ else:
 # finite to calculus convert//
 # write a program even and odd//
 # leap year and not leap year//
+# write a program to check positive and nagative
+# write a program vowel and consonate
 
 
 
