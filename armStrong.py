@@ -14,5 +14,5 @@ if num == sum:
 else:
     print(f"{num} is not an Armstrong number.")
 
-print("Given A Number Value Is:",sum)
+print("Given A Number Value Is: ",sum)
     
