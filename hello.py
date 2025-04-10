@@ -22,8 +22,13 @@ else:
 # write a program vowel and consonate
 
 
-
-
+# foctorial
+# anagram
+# armstrong
+# palindom
+# fibonacii
+# prime
+# write a program to enter maks for four subject and  calculate the avarage and total if the student score avob 75 % then great is ditingtion is the score between 60 to 75 then the great scond divistion if this score 50 to 60 between then great thrid divistion and if grate less then 40 then fail...
 
 
 
