@@ -13,4 +13,6 @@ elif( marks >=60 and marks <75 ):
 elif( marks >=50 and marks<60 ):
     print("thrid divistion...")
 elif ( marks>=40 and marks<50 ):
-    print("Student is Fail...")          
+    print("Student is Fail...")
+else:
+    print("Rad Card..")              
