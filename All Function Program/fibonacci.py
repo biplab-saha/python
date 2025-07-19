@@ -6,4 +6,3 @@ def fibo(n):
         a,b =b,a+b
     return l 
 print(fibo(10))
-  
